@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://miemiesun.github.io/newsite3/'
 languageCode = 'zh'
 title = '新闻探索'
 theme = 'ananke'
