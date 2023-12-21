@@ -1,0 +1,11 @@
+baseURL = ''
+languageCode = 'zh'
+title = '新闻探索'
+theme = 'ananke'
+publishDir="docs"
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
